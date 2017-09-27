@@ -1,3 +1,4 @@
 This is the simple Python Program to capture the frames from your Camera attached to your system.
-I am assuming that you have al ready installed opencv on your system. If you have not installed openCV on your linux machine the follw this tutorial of mine at youtube.
+I am assuming that you have already installed opencv on your system.
+If you have not installed openCV on your linux machine the follw this tutorial of mine at youtube.
 LINK : https://www.youtube.com/watch?v=mmFtkav8tp0
